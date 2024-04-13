@@ -4,9 +4,6 @@
 
 **Athletic Sales Analysis** is a jupyter notebook analyting a data set on various sales data from different retailers.  The goal is to aggregate and display the data using groupby, pivot tables, resampling, and sorting in order to answer relevant business questions needed to understand our sales data. 
 
-##Demo
-
-
 ## Key Features
 - Using groupny, pivot table, resampling, sorting, binning, and renaming.
 - Analyis done on both daily and weekly time frames
@@ -28,10 +25,10 @@ git clone https://github.com/dannygallardo/athletic_sales_analysis.git
 cd athletic_sales_analysis
 
 ```
-- Run Jupyter notebook
+- Run Jupyter notebook from command line.  Type the following.
 ```
 
-type jupyter notebook into command line
+jupyter notebook
 
 ```
 
